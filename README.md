@@ -8,7 +8,7 @@ This project aims to facilitate the segmentation of images using a YOLO (You Onl
 <ul>
         <li><b>Image Segmentation:</b> Utilizes a YOLO model to segment objects within an image.</li>
         <li><b>Image Cropping:</b> Automatically crops the segmented parts from the original image.</li>
-        <li><b>Sorting:</b>b> Sorts the segmented images based on the Y1 value obtained from the YOLO model.</li>
+        <li><b>Sorting:</b> Sorts the segmented images based on the Y1 value obtained from the YOLO model.</li>
 </ul>
 
 <h3>Usage</h3>
