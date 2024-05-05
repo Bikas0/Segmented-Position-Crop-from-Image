@@ -12,11 +12,11 @@ This project aims to facilitate the segmentation of images using a YOLO (You Onl
 </ul>
 
 <h3>Usage</h3>
-Installation: Clone the repository to your local machine.
+Installation: Clone the repository to your local machine.<br>
 ```bash
-git clone https://github.com/your-username/segmented-image-cropper.git
+[git clone https://github.com/your-username/segmented-image-cropper.git](https://github.com/Bikas0/Segmented-Position-Crop-from-Image.git)
 ```
-Setup: Install the required dependencies.
+Setup: Install the required dependencies.<br>
 ```bash
 pip install -r requirements.txt
 ```
